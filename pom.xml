@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework</groupId>
     <artifactId>mb2g-release-plugin</artifactId>
-    <version>1.20</version>
+    <version>1.20-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -49,7 +49,6 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
-                <tag>HEAD</tag>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
