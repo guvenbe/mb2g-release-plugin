@@ -11,7 +11,7 @@
 
         <server>
             <id>packagecloud.snapshot</id>
-            <password>${env.PCLOUD-SNAPSHOT}</password>
+            <password>${env.PCLOUD}</password>
         </server>
     </servers>
 </settings>
