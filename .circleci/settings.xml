@@ -8,6 +8,7 @@
             <id>packagecloud.release</id>
             <password>${env.PCLOUD}</password>
         </server>
+
         <server>
             <id>packagecloud.snapshot</id>
             <password>${env.PCLOUD}</password>
