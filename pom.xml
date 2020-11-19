@@ -63,11 +63,11 @@
     <distributionManagement>
         <repository>
             <id>packagecloud.release</id>
-            <url>packagecloud+https://packagecloud.io/guven/release</url>
+            <url>packagecloud+https://packagecloud.io/guvenbe/release</url>
         </repository>
         <snapshotRepository>
             <id>packagecloud.snapshot</id>
-            <url>packagecloud+https://packagecloud.io/guven/snapshot</url>
+            <url>packagecloud+https://packagecloud.io/guvenbe/snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
